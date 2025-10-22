@@ -8,7 +8,7 @@
    <body>
       <center>
          <h2>HTTP Header Request Example</h2>
-         <table width = "100%" border = "1" align = "center">
+         <table width = "100%" border = "2" align = "center">
             <tr bgcolor = "#949494">
                <th>Param Name</th>
                <th>Param Value(s)</th>
